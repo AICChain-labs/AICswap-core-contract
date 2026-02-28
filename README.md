@@ -61,7 +61,8 @@ Below is the list of newly deployed smart contracts on the AIC mainnet, along wi
 | Contract Name | Contract Address (AIC Mainnet) | Block Explorer | Additional Details |
 |---|---|---|---|
 | **USDI** | `0xD359Ebfa22d6caFe8Ff49b9e45859F688243CdAC` | [View on AIC Scan](https://scan.aicchain.io/address/0xD359Ebfa22d6caFe8Ff49b9e45859F688243CdAC) | **Decimals:** 18<br>**Total Supply:** 100,000,000,000 (100 Billion) |
-| **AicswapV2Factory** | `0xb9b001b11c9365A6f440adccFeCF345aEa724881` | [View on AIC Scan](https://scan.aicchain.io/address/0xb9b001b11c9365A6f440adccFeCF345aEa724881) | **Old Init Code Hash:** `96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f`<br>**New Init Code Hash:** `24d843439afe907396c8c562d5ddb89ab39f9a8284feefd1ff4aa768f50110d3` |
+| **AicswapV2Factory** | `0xb9b001b11c9365A6f440adccFeCF345aEa724881` | [View on AIC Scan](https://scan.aicchain.io/address/0xb9b001b11c9365A6f440adccFeCF345aEa724881) | **New Init Code Hash:** `24d843439afe907396c8c562d5ddb89ab39f9a8284feefd1ff4aa768f50110d3` |
 | **WAIC** | `0x4bdC4C23c0D9bdceefe9AaB8d946DA16b75E03Fb` | [View on AIC Scan](https://scan.aicchain.io/address/0x4bdC4C23c0D9bdceefe9AaB8d946DA16b75E03Fb) | - |
 | **AicswapV2Router02** | `0x773fa2F87c4831607B57926C9c1E8727252c31B2` | [View on AIC Scan](https://scan.aicchain.io/address/0x773fa2F87c4831607B57926C9c1E8727252c31B2) | - |
 | **Multicall** | `0x3E1c72dabc3286CF79b40b945b889d294515d104` | [View on AIC Scan](https://scan.aicchain.io/address/0x3E1c72dabc3286CF79b40b945b889d294515d104) | - |
+
